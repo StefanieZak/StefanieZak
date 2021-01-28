@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there! :metal:
 
-<!--
-**StefanieZak/StefanieZak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Contact me on:
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-StefanieZak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefaniezakarian/)](https://www.linkedin.com/in/stefaniezakarian/)
+[![Hotmail Badge](https://img.shields.io/badge/-stefaniezak@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:stefaniezak@hotmail.com)](mailto:stefaniezak@hotmail.com)
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# :books: Knowledges
+
+- JavaScript
+- CSS3
+- HTML5
+- AdobeXD
+- Photoshop
+- Inglês Intermediário
+
+# 🚀 I’m currently learning ...
+
+- Vue.js
+
+<br/>
+
+#### :bar_chart: Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanieZak&count_private=true&theme=dracula&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
