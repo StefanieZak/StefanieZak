@@ -9,7 +9,7 @@
 # :books: Knowledges
 
 - JavaScript
-- CSS3
+- CSS3 (Flexbox and Grid layout)
 - HTML5
 - AdobeXD
 - Photoshop
@@ -17,7 +17,7 @@
 
 # 🚀 I’m currently learning ...
 
-- Vue.js
+- Vue.js and Vuex
 
 <br/>
 
