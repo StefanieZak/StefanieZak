@@ -13,7 +13,7 @@
 - HTML5
 - AdobeXD
 - Photoshop
-- Inglês Intermediário
+- Intermediate English
 
 # 🚀 I’m currently learning ...
 
