@@ -8,6 +8,7 @@
 
 # :books: Knowledges
 
+- Vue.js
 - JavaScript
 - CSS3 (Flexbox and Grid layout)
 - HTML5
@@ -17,7 +18,7 @@
 
 # 🚀 I’m currently learning ...
 
-- Vue.js and Vuex
+- Vuex and Firebase
 
 <br/>
 
