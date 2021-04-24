@@ -16,9 +16,6 @@
 - Photoshop
 - Intermediate English
 
-# 🚀 I’m currently learning ...
-
-- Vuex and Firebase
 
 <br/>
 
