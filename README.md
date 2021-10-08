@@ -8,10 +8,15 @@
 
 # :books: Knowledges
 
+- Nuxt.js
 - Vue.js
 - JavaScript
+- Typescript
 - CSS3 (Flexbox and Grid layout)
+- SASS
 - HTML5
+- Jest
+- Figma
 - AdobeXD
 - Photoshop
 - Intermediate English
